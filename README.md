@@ -2,7 +2,7 @@
 
 > Full Design Blueprint — Incremental Optimization & Upgrade, Final Release
 
-**Author:** 老黑 | **Status:** All modules finalized, vulnerabilities fixed, logic fully closed-loop, ready for deployment  
+**Author:** Lao Hei | **Status:** All modules finalized, vulnerabilities fixed, logic fully closed-loop, ready for deployment  
 **License:** [MIT](./LICENSE) | **Open Source Notice:** This document follows GitHub standard documentation format with standardized terminology, modular structure, and English writing for public open-source release.
 
 ---
