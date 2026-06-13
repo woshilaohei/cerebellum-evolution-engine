@@ -2,7 +2,7 @@
 
 > Full Design Blueprint — Incremental Optimization & Upgrade, Final Release
 
-**Author:** Dacheng | **Status:** All modules finalized, vulnerabilities fixed, logic fully closed-loop, ready for deployment  
+**Author:** 老黑 | **Status:** All modules finalized, vulnerabilities fixed, logic fully closed-loop, ready for deployment  
 **License:** [MIT](./LICENSE) | **Open Source Notice:** This document follows GitHub standard documentation format with standardized terminology, modular structure, and English writing for public open-source release.
 
 ---
@@ -639,6 +639,34 @@ Clean workspace
 
 - Void space self-check follows H1-H10 harm rules
 - All intermediate drafts & mapping traces are permanently cleared after task completion
+
+---
+
+---
+
+## 一起搞事情？
+
+> 老黑一个人肝不动了，这引擎本质是个骨架——AI安全架构的骨架。
+
+### 你最可能帮上忙的事
+
+| 方向 | 你能做什么 | 难度 |
+|------|-----------|------|
+| **Rust 实现 Cerebellum 核心** | 🦀 安全引擎的硬件级落地，懂 Rust 就行 | ⭐⭐⭐⭐ |
+| **Void Engine 并行调度** | 多草稿并行生成+评分系统，Python 熟手来 | ⭐⭐⭐ |
+| **统一记忆池存储引擎** | 压缩/分层/索引，玩过向量数据库或时序数据库的 | ⭐⭐⭐ |
+| **安全规则贡献** | 你没有代码？没关系。提新的攻击场景、边界用例、威胁模型 | ⭐ |
+| **文档 & 翻译** | 你擅长表达？帮忙把设计思路用更干净的语言讲出来 | ⭐⭐ |
+| **前端可视化** | 给调度中心、安全面板做可视化，React/Vue/Svelte 随便你 | ⭐⭐⭐ |
+| **瞎聊天** | 就是单纯对这个方向感兴趣，想聊聊？也行。 | — |
+
+### 怎么找我
+
+- 📧 Email：**1410770089@qq.com**
+- 🐙 GitHub：[github.com/woshilaohei](https://github.com/woshilaohei)
+- 💬 直接开 Issue 聊：[cerebellum-evolution-engine/issues](https://github.com/woshilaohei/cerebellum-evolution-engine/issues)
+
+> 不用顾忌，不用拘束。不管你是学生、老炮、还是单纯路过觉得有意思——过来聊聊。
 
 ---
 
