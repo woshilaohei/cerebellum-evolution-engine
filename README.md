@@ -644,29 +644,29 @@ Clean workspace
 
 ---
 
-## 一起搞事情？
+## Collaborate With Me
 
-> 老黑一个人肝不动了，这引擎本质是个骨架——AI安全架构的骨架。
+> I'm building this solo — the engine is a skeleton, an AI safety architecture skeleton. Let's put some muscle on it.
 
-### 你最可能帮上忙的事
+### Where You Can Help
 
-| 方向 | 你能做什么 | 难度 |
-|------|-----------|------|
-| **Rust 实现 Cerebellum 核心** | 🦀 安全引擎的硬件级落地，懂 Rust 就行 | ⭐⭐⭐⭐ |
-| **Void Engine 并行调度** | 多草稿并行生成+评分系统，Python 熟手来 | ⭐⭐⭐ |
-| **统一记忆池存储引擎** | 压缩/分层/索引，玩过向量数据库或时序数据库的 | ⭐⭐⭐ |
-| **安全规则贡献** | 你没有代码？没关系。提新的攻击场景、边界用例、威胁模型 | ⭐ |
-| **文档 & 翻译** | 你擅长表达？帮忙把设计思路用更干净的语言讲出来 | ⭐⭐ |
-| **前端可视化** | 给调度中心、安全面板做可视化，React/Vue/Svelte 随便你 | ⭐⭐⭐ |
-| **瞎聊天** | 就是单纯对这个方向感兴趣，想聊聊？也行。 | — |
+| Focus Area | What You'd Do | Difficulty |
+|------------|---------------|------------|
+| **Cerebellum Core in Rust** | 🦀 Hardware-level safety engine — if you know Rust, you're in | ⭐⭐⭐⭐ |
+| **Void Engine Parallel Scheduler** | Multi-draft parallel generation + scoring system; Python | ⭐⭐⭐ |
+| **Unified Memory Pool Storage** | Compression, tiering, indexing — if you've touched vector DBs or TSDBs | ⭐⭐⭐ |
+| **Security Rules** | No code? No problem. Submit attack scenarios, edge cases, threat models | ⭐ |
+| **Docs & Translation** | Good with words? Help articulate the design philosophy clearer | ⭐⭐ |
+| **Frontend Visualization** | Build dashboards for the scheduler & security panel; React/Vue/Svelte | ⭐⭐⭐ |
+| **Just Chat** | Curious about the direction? Want to brainstorm? That works too. | — |
 
-### 怎么找我
+### Get in Touch
 
-- 📧 Email：**1410770089@qq.com**
-- 🐙 GitHub：[github.com/woshilaohei](https://github.com/woshilaohei)
-- 💬 直接开 Issue 聊：[cerebellum-evolution-engine/issues](https://github.com/woshilaohei/cerebellum-evolution-engine/issues)
+- 📧 Email: **1410770089@qq.com**
+- 🐙 GitHub: [github.com/woshilaohei](https://github.com/woshilaohei)
+- 💬 Open an Issue: [cerebellum-evolution-engine/issues](https://github.com/woshilaohei/cerebellum-evolution-engine/issues)
 
-> 不用顾忌，不用拘束。不管你是学生、老炮、还是单纯路过觉得有意思——过来聊聊。
+> No formalities. Student, veteran, or just passing by and found this interesting — come say hi.
 
 ---
 
